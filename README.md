@@ -6,26 +6,24 @@
 
 修改 Apple 网络定位服务 (WiFi/基站) 返回的坐标，实现 iOS 网络定位虚拟定位。打开在线选点页面选位置即可生效，无需手动填经纬度。
 
-> 本仓库由 `samni728` 独立维护，订阅、脚本与部署配置均指向本仓库。
-
 ---
 
 ## 订阅地址
 
 **Surge:**
-https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/modules/wloc.sgmodule
+https://raw.githubusercontent.com/Squirrel223/my-spoofer/refs/heads/main/modules/wloc.sgmodule
 
 **Quantumult X:**
-https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/modules/wloc.conf
+https://raw.githubusercontent.com/Squirrel223/my-spoofer/refs/heads/main/modules/wloc.conf
 
 **Loon:**
-https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/modules/wloc.lpx
+https://raw.githubusercontent.com/Squirrel223/my-spoofer/refs/heads/main/modules/wloc.lpx
 
 **Stash:**
-https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/modules/wloc.stoverride
+https://raw.githubusercontent.com/Squirrel223/my-spoofer/refs/heads/main/modules/wloc.stoverride
 
 **Shadowrocket(小火箭):**
-https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/modules/wloc.module
+https://raw.githubusercontent.com/Squirrel223/my-spoofer/refs/heads/main/modules/wloc.module
 
 > Egern 可直接使用 Surge 模块
 > Stash 请直接订阅上面的 `.stoverride`，无需用 Script Hub 转换
