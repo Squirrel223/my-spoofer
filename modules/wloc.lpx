@@ -1,5 +1,5 @@
 #!name=Apple WLOC 定位修改
-#!desc=修改 Apple 网络定位返回坐标 | samni728 独立维护版 | 选点页面请使用自部署 Worker
+#!desc=修改 Apple 网络定位返回坐标 | 选点页面请使用自部署 Worker
 #!icon=https://raw.githubusercontent.com/samni728/wloc/refs/heads/main/wloc.jpg
 #!author=samni728
 #!homepage=https://github.com/samni728/wloc
